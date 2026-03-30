@@ -1,0 +1,8 @@
+font-size: 1.3rem;
+font-weigh: bolder;
+max-width: 300px;
+display: flex;
+gap: 20px
+margin-bottom: 20px;
+flex-direction: column;
+width: 100%;
